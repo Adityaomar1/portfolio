@@ -1,16 +1,122 @@
-# React + Vite
+# 🌐 Aditya Omar – Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website! This portfolio showcases my projects, technical skills, achievements, and ways to connect with me. It is built with modern web technologies to provide an interactive and immersive user experience.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+**Portfolio:** *(Add your deployed URL here)*
 
-## React Compiler
+Example:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+```
+https://your-portfolio.vercel.app
+```
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+* 🎨 Modern and responsive UI
+* 🌌 Interactive 3D graphics using Three.js
+* ⚡ Smooth animations powered by GSAP
+* 📱 Mobile-friendly design
+* 💼 Dedicated Projects section
+* 👨‍💻 About Me section
+* 🛠️ Skills showcase
+* 📧 Contact form integration using EmailJS
+* 🌙 Clean and professional design
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+* React.js
+* Vite
+* JavaScript (ES6+)
+
+### Styling
+
+* Tailwind CSS
+* CSS3
+
+### Animation
+
+* GSAP
+
+### 3D Graphics
+
+* Three.js
+* React Three Fiber
+* Drei
+
+### Other Tools
+
+* EmailJS
+* Git & GitHub
+* Vercel
+
+---
+
+## 📂 Project Structure
+
+```
+portfolio/
+│── public/
+│── src/
+│   ├── assets/
+│   ├── components/
+│   ├── constants/
+│   ├── sections/
+│   ├── App.jsx
+│   └── main.jsx
+│
+├── package.json
+├── vite.config.js
+└── README.md
+```
+
+---
+
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/portfolio.git
+```
+
+Navigate to the project folder:
+
+```bash
+cd portfolio
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+Build for production:
+
+```bash
+npm run build
+```
+
+Preview the production build:
+
+```bash
+npm run preview
+```
+
+If you like this project, consider giving it a ⭐ on GitHub. Your support is greatly appreciated!
+
+Made with ❤️ by **Aditya Omar**
