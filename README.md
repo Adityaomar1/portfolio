@@ -4,13 +4,9 @@ Welcome to my personal portfolio website! This portfolio showcases my projects, 
 
 ## 🚀 Live Demo
 
-**Portfolio:** *(Add your deployed URL here)*
+**Portfolio:**
 
-Example:
-
-```
 https://your-portfolio.vercel.app
-```
 
 ---
 
