@@ -6,7 +6,7 @@ Welcome to my personal portfolio website! This portfolio showcases my projects, 
 
 **Portfolio:**
 
-https://your-portfolio.vercel.app
+https://adityaomarportfolio.netlify.app/
 
 ---
 
