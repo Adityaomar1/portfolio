@@ -77,7 +77,7 @@ const AppShowcase = () => {
               <div className="image-wrapper bg-[#FFE7EB]">
                 <img src="/images/project3.png" alt="YC Directory App" />
               </div>
-              <h2>AI Fraud Detection Web-App</h2>
+              <h2>Change Detection due to Human Activites </h2>
             </div>
           </div>
         </div>
